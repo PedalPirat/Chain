@@ -13,3 +13,5 @@ The Chain is a mix of CAN, LIN, USB and I2C that connects all Cogs of the PedalP
 ### BTLE
 
 ## Data
+
+## [ThingSet](https://thingset.io/)
