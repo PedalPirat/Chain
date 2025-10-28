@@ -9,5 +9,7 @@ The Chain is a mix of CAN, LIN, USB and I2C that connects all Cogs of the PedalP
 #### USB
 #### I2C
 ### Power
+### ANT+
+### BTLE
 
 ## Data
